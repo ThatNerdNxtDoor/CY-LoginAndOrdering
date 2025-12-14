@@ -1,0 +1,14 @@
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.AssemblyInfoInputs.cache
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.AssemblyInfo.cs
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\bin\Debug\net9.0\InheritencePracCSharp.exe
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\bin\Debug\net9.0\InheritencePracCSharp.deps.json
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\bin\Debug\net9.0\InheritencePracCSharp.runtimeconfig.json
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\bin\Debug\net9.0\InheritencePracCSharp.dll
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\bin\Debug\net9.0\InheritencePracCSharp.pdb
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.dll
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\refint\InheritencePracCSharp.dll
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.pdb
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.genruntimeconfig.cache
+C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\ref\InheritencePracCSharp.dll
