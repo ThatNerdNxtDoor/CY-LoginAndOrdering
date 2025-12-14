@@ -27,6 +27,7 @@ namespace InheritencePrac {
                 switch(input)
                 {
                     case "1": //Login
+                        Console.WriteLine("Enter a password:");
                         input = Console.ReadLine();
                         Person foundUser = users.Find(x => x.password.Contains(input));
                         if (foundUser != null)

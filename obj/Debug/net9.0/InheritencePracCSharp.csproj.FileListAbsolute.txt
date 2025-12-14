@@ -12,3 +12,4 @@ C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\
 C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.pdb
 C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.genruntimeconfig.cache
 C:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\ref\InheritencePracCSharp.dll
+c:\Users\thatn\Documents\Projects\CSharp\InheritencePracCSharp\obj\Debug\net9.0\InheritencePracCSharp.sourcelink.json
